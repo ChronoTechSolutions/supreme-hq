@@ -1,6 +1,6 @@
 # 🚀 Supreme HQ | Digital Command Center
 
-The central hub for **Supreme Outdoor Advertising Ltd.** This dashboard provides real-time visibility into production workflows, inventory levels, and field operations at **Fairview Farm Estate**.
+The central hub for **Supreme Outdoor Advertising Ltd.** This dashboard provides real-time visibility into production workflows, inventory levels, and field operations at **Offsite Storage Location**.
 
 ## 🏗️ The Ecosystem
 This Hub connects to two other specialized micro-apps:
